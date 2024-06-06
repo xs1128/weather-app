@@ -45,7 +45,7 @@ Click this [link](https://xs1128.pythonanywhere.com/) to direct to my weather ap
 2. Follow the host's guidelines to set up the server live.
 
 > [!Tip]
-> I am using PythonAnywhere's free plan to host the website.
+> I am using PythonAnywhere's free plan to host the website. </br>
 > If you are using this web hosting service, this video ([link](https://www.youtube.com/watch?v=xtnUwvjOThg&t=993s)) may help you set up the website.
 
 ## Credits
