@@ -8,7 +8,7 @@ def home(request):
     # Weather API requests paramaeters
     BASE_URL = "http://api.weatherapi.com/v1"
     API_METHOD = "/current.json/forecast.json"
-    API_KEY = "42cc03750a834b628fb55045240305"
+    API_KEY = "42cc03750a834b628fb55045240305" #This API key is expired, please create your own
     geo_location = ""
     # Requird only with forecast API method
     days = 7
