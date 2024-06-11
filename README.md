@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 cd weather_project
 ```
-- You should be in `...\weather_app/weather_project>` by now
+- You should be in `...\weather_app\weather_project>` by now
 
 5. Run the server on localhost using the command:
 ```
