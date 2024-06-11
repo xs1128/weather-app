@@ -1,4 +1,5 @@
 # Weather Web App
+A Python web app using Django framework and [Weather API](https://www.weatherapi.com/).
 
 ## Local Setup
 > [!NOTE]
